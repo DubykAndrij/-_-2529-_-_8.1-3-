@@ -1,0 +1,3 @@
+﻿  pr_8_1(3).cpp
+C:\Users\andri\source\repos\PR_8_1(3)\PR_8_1(3)\pr_8_1(3).cpp(25,18): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  PR_8_1(3).vcxproj -> C:\Users\andri\source\repos\PR_8_1(3)\x64\Debug\PR_8_1(3).exe
